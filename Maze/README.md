@@ -1,1 +1,2 @@
-Hello, wellcome to William's maze.
+Hello, welcome to William's maze.
+-[Enter](StartingRoom.html)
